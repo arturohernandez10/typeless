@@ -17,10 +17,10 @@ module.tsx
 * Module
 
 form-module
-  use<feature>Form,
-  <feature>FormActions
-  get<feature>FormState
-  <feature>FormProvider
+* use<feature>Form,
+* <feature>FormActions
+* get<feature>FormState
+* <feature>FormProvider
     
 components directory
 
